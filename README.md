@@ -11,9 +11,9 @@ The dataset used in this study is available on the Zenodo platform: [https://doi
 ## Running the Application
 ### To run the application locally:
 
-Make sure you have R installed on your machine.
-Execute the script run_macss_app.R.
-The application will open in your default web browser.
+- Make sure you have R installed on your machine.
+- Execute the script run_macss_app.R.
+- The application will open in your default web browser.
 #### System Requirements
 R version 4.4.0 or higher is recommended.
 ### Web Application
@@ -22,6 +22,6 @@ The application is also available online as a web app at [https://macsstat.shiny
 ## Instructions
 ### Local Installation:
 
-Open R
-Run the script run_macss_app.R.
-The application will automatically open in your default web browser.
+- Open R
+- Run the script run_macss_app.R.
+- The application will automatically open in your default web browser.
