@@ -18,10 +18,3 @@ The dataset used in this study is available on the Zenodo platform: [https://doi
 R version 4.4.0 or higher is recommended.
 ### Web Application
 The application is also available online as a web app at [https://macsstat.shinyapps.io/macss/](https://macsstat.shinyapps.io/macss/). However, running it locally is recommended due to the heavy computational load of the AI models, which may cause disconnections on the web server due to insufficient RAM.
-
-## Instructions
-### Local Installation:
-
-- Open R
-- Run the script run_macss_app.R.
-- The application will automatically open in your default web browser.
