@@ -4,7 +4,7 @@
 Author: Dr. Rodrigo Cupertino Bernardes [LinkedIn](https://www.linkedin.com/in/rodrigo-cupertino-bernardes/)
 
 ## Overview
-This platform is associated with the scientific study titled "AI-driven detection of pesticide contamination in bees using reflectance profiling." The study explores the application of hyperspectral reflectance data and machine learning models to identify pesticide contamination in bee carcasses.
+This platform is associated with the scientific study titled "Artificial intelligence-driven tool for spectral analysis: identifying pesticide contamination in bees from reflectance profiling." The study explores the application of hyperspectral reflectance data and machine learning models to identify pesticide contamination in bee carcasses.
 
 The dataset used in this study is available on the Zenodo platform: [https://doi.org/10.5281/zenodo.11643453](https://doi.org/10.5281/zenodo.11643453)
 
